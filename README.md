@@ -1,5 +1,5 @@
 # Expense Tracker
-React Application (3-5)
+React Application 
 
 installation instructions
 1. download code
